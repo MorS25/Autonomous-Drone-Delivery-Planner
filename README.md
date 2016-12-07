@@ -56,6 +56,12 @@ To run from Windows
 
 	optic-clp.exe -N DOMAIN_FILE PROBLEM_FILE
 
+To run from Mac
+
+	java javaff.JavaFF DOMAIN_FILE PROBLEM_FILE
+
+Note: `durative-action` is not available in javaFF
+
 ## Find more
 
 This planner uses the Planning Domian Definition Language (PDDL).
