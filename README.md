@@ -51,6 +51,10 @@ The problem file defines the predicates and objects in that specific world.
 
 	Defines when the planner has reached a goal state.
 
+## How to run the planner
+To run from Windows
+
+	optic-clp.exe -N DOMAIN_FILE PROBLEM_FILE
 
 ## Find more
 
