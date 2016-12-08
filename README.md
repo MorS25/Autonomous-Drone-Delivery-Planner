@@ -52,11 +52,11 @@ The problem file defines the predicates and objects in that specific world.
 	Defines when the planner has reached a goal state.
 
 ## How to run the planner
-To run from Windows
+To run from Windows, use OPTIC.
 
 	optic-clp.exe -N DOMAIN_FILE PROBLEM_FILE
 
-To run from Mac
+To run from Mac, use javaff.
 
 	java javaff.JavaFF DOMAIN_FILE PROBLEM_FILE
 
